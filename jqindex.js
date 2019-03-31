@@ -1,5 +1,5 @@
 $(function(){
     $("#toggelep").click(function() {
-        $("#toggelep").show("slow");
+        $("#par").show("slow");
     });
 });
