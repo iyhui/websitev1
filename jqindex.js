@@ -4,6 +4,6 @@
     });
 });*/
 
-$("toggelep").click(function(){
-    $("par").show();
+$("#toggelep").click(function(){
+    $("#par").show();
   });
