@@ -4,6 +4,6 @@
     });
 });*/
 
-$("#toggelep").click(function(){
+$("input#toggelep").click(function(){
     $("#par").show();
   });
